@@ -1,0 +1,483 @@
+{
+    "totalPages": 1,
+    "totalItems": 53,
+    "data": [
+        {
+            "id": "56269eb78ad2e4ced1000013",
+            "name": "Find the next perfect square!",
+            "slug": "find-the-next-perfect-square",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T06:52:50.763Z"
+        },
+        {
+            "id": "5875b200d520904a04000003",
+            "name": "Will there be enough space?",
+            "slug": "will-there-be-enough-space",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T06:21:24.121Z"
+        },
+        {
+            "id": "5865918c6b569962950002a1",
+            "name": "All Star Code Challenge #18",
+            "slug": "all-star-code-challenge-number-18",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T06:09:06.826Z"
+        },
+        {
+            "id": "58261acb22be6e2ed800003a",
+            "name": "Volume of a Cuboid",
+            "slug": "volume-of-a-cuboid",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T06:06:12.270Z"
+        },
+        {
+            "id": "576b93db1129fcf2200001e6",
+            "name": "Sum without highest and lowest number",
+            "slug": "sum-without-highest-and-lowest-number",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T06:04:53.507Z"
+        },
+        {
+            "id": "56efc695740d30f963000557",
+            "name": "altERnaTIng cAsE <=> ALTerNAtiNG CaSe",
+            "slug": "alternating-case-<-equals->-alternating-case",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T05:47:33.501Z"
+        },
+        {
+            "id": "546e2562b03326a88e000020",
+            "name": "Square Every Digit",
+            "slug": "square-every-digit",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T05:40:21.706Z"
+        },
+        {
+            "id": "542c0f198e077084c0000c2e",
+            "name": "Count the divisors of a number",
+            "slug": "count-the-divisors-of-a-number",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T05:20:57.916Z"
+        },
+        {
+            "id": "523b623152af8a30c6000027",
+            "name": "Function 2 - squaring an argument",
+            "slug": "function-2-squaring-an-argument",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T05:11:05.384Z"
+        },
+        {
+            "id": "55ecd718f46fba02e5000029",
+            "name": "What is between?",
+            "slug": "what-is-between",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T05:00:13.062Z"
+        },
+        {
+            "id": "54c27a33fb7da0db0100040e",
+            "name": "You're a square!",
+            "slug": "youre-a-square",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T04:50:19.706Z"
+        },
+        {
+            "id": "53da3dbb4a5168369a0000fe",
+            "name": "Even or Odd",
+            "slug": "even-or-odd",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-05-24T14:35:22.781Z"
+        },
+        {
+            "id": "5715eaedb436cf5606000381",
+            "name": "Sum of positive",
+            "slug": "sum-of-positive",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-05-24T14:30:05.785Z"
+        },
+        {
+            "id": "55cb632c1a5d7b3ad0000145",
+            "name": "Keep up the hoop",
+            "slug": "keep-up-the-hoop",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-05-24T14:23:32.950Z"
+        },
+        {
+            "id": "55b42574ff091733d900002f",
+            "name": "Friend or Foe?",
+            "slug": "friend-or-foe",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T05:04:00.568Z"
+        },
+        {
+            "id": "5949481f86420f59480000e7",
+            "name": "Odd or Even?",
+            "slug": "odd-or-even",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T04:55:50.672Z"
+        },
+        {
+            "id": "523b4ff7adca849afe000035",
+            "name": "Function 1 - hello world",
+            "slug": "function-1-hello-world",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T04:35:20.171Z"
+        },
+        {
+            "id": "59ca8246d751df55cc00014c",
+            "name": "Is he gonna survive?",
+            "slug": "is-he-gonna-survive",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T04:27:55.576Z"
+        },
+        {
+            "id": "5861d28f124b35723e00005e",
+            "name": "Will you make it?",
+            "slug": "will-you-make-it",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T04:25:27.719Z"
+        },
+        {
+            "id": "558fc85d8fd1938afb000014",
+            "name": "Sum of two lowest positive integers",
+            "slug": "sum-of-two-lowest-positive-integers",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T04:16:11.826Z"
+        },
+        {
+            "id": "5a00e05cc374cb34d100000d",
+            "name": "Reversed sequence",
+            "slug": "reversed-sequence",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T04:08:50.311Z"
+        },
+        {
+            "id": "57f780909f7e8e3183000078",
+            "name": "Beginner - Reduce but Grow",
+            "slug": "beginner-reduce-but-grow",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T04:02:49.774Z"
+        },
+        {
+            "id": "555086d53eac039a2a000083",
+            "name": "Opposites Attract",
+            "slug": "opposites-attract",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T04:00:51.171Z"
+        },
+        {
+            "id": "5265326f5fda8eb1160004c8",
+            "name": "Convert a Number to a String!",
+            "slug": "convert-a-number-to-a-string",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T03:51:37.475Z"
+        },
+        {
+            "id": "515e271a311df0350d00000f",
+            "name": "Square(n) Sum",
+            "slug": "square-n-sum",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T03:45:13.002Z"
+        },
+        {
+            "id": "5601409514fc93442500010b",
+            "name": "How good are you really?",
+            "slug": "how-good-are-you-really",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T03:41:30.400Z"
+        },
+        {
+            "id": "55a2d7ebe362935a210000b2",
+            "name": "Find the smallest integer in the array",
+            "slug": "find-the-smallest-integer-in-the-array",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-18T03:30:13.103Z"
+        },
+        {
+            "id": "5bb904724c47249b10000131",
+            "name": "Total amount of points",
+            "slug": "total-amount-of-points",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-16T05:21:24.512Z"
+        },
+        {
+            "id": "56676e8fabd2d1ff3000000c",
+            "name": "A Needle in the Haystack",
+            "slug": "a-needle-in-the-haystack",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-16T05:05:18.288Z"
+        },
+        {
+            "id": "55f9b48403f6b87a7c0000bd",
+            "name": "Beginner Series #1 School Paperwork",
+            "slug": "beginner-series-number-1-school-paperwork",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-16T04:57:41.365Z"
+        },
+        {
+            "id": "55685cd7ad70877c23000102",
+            "name": "Return Negative",
+            "slug": "return-negative",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-16T04:51:32.756Z"
+        },
+        {
+            "id": "57eaeb9578748ff92a000009",
+            "name": "Sum Mixed Array",
+            "slug": "sum-mixed-array",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-16T04:45:38.698Z"
+        },
+        {
+            "id": "544675c6f971f7399a000e79",
+            "name": "Convert a String to a Number!",
+            "slug": "convert-a-string-to-a-number",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-16T04:39:36.790Z"
+        },
+        {
+            "id": "53dc54212259ed3d4f00071c",
+            "name": "Sum Arrays",
+            "slug": "sum-arrays",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-04-16T04:36:09.737Z"
+        },
+        {
+            "id": "593ed37c93350098d600001d",
+            "name": "Easy SQL - Ordering",
+            "slug": "easy-sql-ordering",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-02-06T07:26:19.005Z"
+        },
+        {
+            "id": "590cc86f7557c0494000007e",
+            "name": "Register for the Party (SQL for Beginners #3)",
+            "slug": "register-for-the-party-sql-for-beginners-number-3",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-02-05T10:49:33.574Z"
+        },
+        {
+            "id": "57a0556c7cb1f31ab3000ad7",
+            "name": "MakeUpperCase",
+            "slug": "makeuppercase",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-02-05T09:49:26.534Z"
+        },
+        {
+            "id": "594800ba6fb152624300006d",
+            "name": "Easy SQL: LowerCase",
+            "slug": "easy-sql-lowercase",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-02-05T09:43:39.281Z"
+        },
+        {
+            "id": "58110da0009b4f7ef80000ad",
+            "name": "SQL Basics: Simple SUM",
+            "slug": "sql-basics-simple-sum",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-02-05T09:37:45.721Z"
+        },
+        {
+            "id": "56dec885c54a926dcd001095",
+            "name": "Opposite number",
+            "slug": "opposite-number",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-02-05T09:31:53.658Z"
+        },
+        {
+            "id": "55a70521798b14d4750000a4",
+            "name": "Returning Strings",
+            "slug": "returning-strings",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-05T09:21:35.526Z"
+        },
+        {
+            "id": "55f9bca8ecaa9eac7100004a",
+            "name": "Beginner Series #2 Clock",
+            "slug": "beginner-series-number-2-clock",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-05T09:06:33.423Z"
+        },
+        {
+            "id": "53ee5429ba190077850011d4",
+            "name": "You Can't Code Under Pressure #1",
+            "slug": "you-cant-code-under-pressure-number-1",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-03T15:44:36.706Z"
+        },
+        {
+            "id": "52fba66badcd10859f00097e",
+            "name": "Disemvowel Trolls",
+            "slug": "disemvowel-trolls",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-03T15:42:55.039Z"
+        },
+        {
+            "id": "57a0e5c372292dd76d000d7e",
+            "name": "String repeat",
+            "slug": "string-repeat",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-03T15:31:54.055Z"
+        },
+        {
+            "id": "54edbc7200b811e956000556",
+            "name": "Counting sheep...",
+            "slug": "counting-sheep-dot-dot-dot",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-03T15:19:08.803Z"
+        },
+        {
+            "id": "57f781872e3d8ca2a000007e",
+            "name": "Beginner - Lost Without a Map",
+            "slug": "beginner-lost-without-a-map",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-03T15:04:29.213Z"
+        },
+        {
+            "id": "57356c55867b9b7a60000bd7",
+            "name": "Basic Mathematical Operations",
+            "slug": "basic-mathematical-operations",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-03T14:58:32.987Z"
+        },
+        {
+            "id": "53369039d7ab3ac506000467",
+            "name": "Convert boolean values to strings 'Yes' or 'No'.",
+            "slug": "convert-boolean-values-to-strings-yes-or-no",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-02T11:05:59.947Z"
+        },
+        {
+            "id": "55f8a9c06c018a0d6e000132",
+            "name": "Regex validate PIN code",
+            "slug": "regex-validate-pin-code",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-02T11:00:00.065Z"
+        },
+        {
+            "id": "54ff3102c1bad923760001f3",
+            "name": "Vowel Count",
+            "slug": "vowel-count",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-02T10:43:34.990Z"
+        },
+        {
+            "id": "51f2d1cafc9c0f745c00037d",
+            "name": "String ends with?",
+            "slug": "string-ends-with",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-02T10:36:23.661Z"
+        },
+        {
+            "id": "514b92a657cdc65150000006",
+            "name": "Multiples of 3 or 5",
+            "slug": "multiples-of-3-or-5",
+            "completedLanguages": [
+                "java"
+            ],
+            "completedAt": "2026-02-02T10:09:49.973Z"
+        }
+    ]
+}
