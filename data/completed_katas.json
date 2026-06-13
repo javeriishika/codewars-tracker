@@ -1,7 +1,16 @@
 {
     "totalPages": 1,
-    "totalItems": 53,
+    "totalItems": 54,
     "data": [
+        {
+            "id": "577ff15ad648a14b780000e7",
+            "name": "Welcome!",
+            "slug": "welcome",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T08:21:37.621Z"
+        },
         {
             "id": "56269eb78ad2e4ced1000013",
             "name": "Find the next perfect square!",

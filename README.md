@@ -5,8 +5,8 @@
 
 - Username: javeriishika
 - Rank: 6 kyu
-- Honor: 163
-- Total Solved Kata: 53
+- Honor: 165
+- Total Solved Kata: 54
 
 ## About
 
