@@ -1,7 +1,61 @@
 {
     "totalPages": 1,
-    "totalItems": 54,
+    "totalItems": 60,
     "data": [
+        {
+            "id": "54bf1c2cd5b56cc47f0007a1",
+            "name": "Counting Duplicates",
+            "slug": "counting-duplicates",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T09:40:50.822Z"
+        },
+        {
+            "id": "5842df8ccbd22792a4000245",
+            "name": "Write Number in Expanded Form",
+            "slug": "write-number-in-expanded-form",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T09:30:12.144Z"
+        },
+        {
+            "id": "551f37452ff852b7bd000139",
+            "name": "Binary Addition",
+            "slug": "binary-addition",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T09:21:18.925Z"
+        },
+        {
+            "id": "52efefcbcdf57161d4000091",
+            "name": "Count characters in your string",
+            "slug": "count-characters-in-your-string",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T09:09:00.033Z"
+        },
+        {
+            "id": "57f24e6a18e9fad8eb000296",
+            "name": "I love you,  a little ,  a lot,  passionately ... not at all",
+            "slug": "i-love-you-a-little-a-lot-passionately-dot-dot-dot-not-at-all",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T08:59:14.617Z"
+        },
+        {
+            "id": "57cc975ed542d3148f00015b",
+            "name": "You only need one - Beginner",
+            "slug": "you-only-need-one-beginner",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-13T08:27:22.298Z"
+        },
         {
             "id": "577ff15ad648a14b780000e7",
             "name": "Welcome!",
