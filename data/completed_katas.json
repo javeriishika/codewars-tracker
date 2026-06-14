@@ -1,7 +1,79 @@
 {
     "totalPages": 1,
-    "totalItems": 60,
+    "totalItems": 68,
     "data": [
+        {
+            "id": "58f8a3a27a5c28d92e000144",
+            "name": "Find the first non-consecutive number",
+            "slug": "find-the-first-non-consecutive-number",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-14T17:41:00.058Z"
+        },
+        {
+            "id": "55f2b110f61eb01779000053",
+            "name": "Beginner Series #3 Sum of Numbers",
+            "slug": "beginner-series-number-3-sum-of-numbers",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-14T17:19:10.119Z"
+        },
+        {
+            "id": "5544c7a5cb454edb3c000047",
+            "name": "Bouncing Balls",
+            "slug": "bouncing-balls",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-14T17:12:10.230Z"
+        },
+        {
+            "id": "568dcc3c7f12767a62000038",
+            "name": "L1: Set Alarm",
+            "slug": "l1-set-alarm",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-14T16:45:20.525Z"
+        },
+        {
+            "id": "557cd6882bfa3c8a9f0000c1",
+            "name": "Parse nice int from char problem",
+            "slug": "parse-nice-int-from-char-problem",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-14T16:39:28.754Z"
+        },
+        {
+            "id": "55cbc3586671f6aa070000fb",
+            "name": "Grasshopper - Check for factor",
+            "slug": "grasshopper-check-for-factor",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-14T16:11:35.766Z"
+        },
+        {
+            "id": "5592e3bd57b64d00f3000047",
+            "name": "Build a pile of Cubes",
+            "slug": "build-a-pile-of-cubes",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-14T16:07:07.349Z"
+        },
+        {
+            "id": "555a67db74814aa4ee0001b5",
+            "name": "Is it even?",
+            "slug": "is-it-even",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-14T05:08:37.570Z"
+        },
         {
             "id": "54bf1c2cd5b56cc47f0007a1",
             "name": "Counting Duplicates",
