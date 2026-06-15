@@ -1,7 +1,16 @@
 {
     "totalPages": 1,
-    "totalItems": 68,
+    "totalItems": 69,
     "data": [
+        {
+            "id": "52c31f8e6605bcc646000082",
+            "name": "Two Sum",
+            "slug": "two-sum",
+            "completedLanguages": [
+                "python"
+            ],
+            "completedAt": "2026-06-14T17:54:24.452Z"
+        },
         {
             "id": "58f8a3a27a5c28d92e000144",
             "name": "Find the first non-consecutive number",
