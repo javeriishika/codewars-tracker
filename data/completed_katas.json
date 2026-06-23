@@ -1,7 +1,79 @@
 {
     "totalPages": 1,
-    "totalItems": 78,
+    "totalItems": 86,
     "data": [
+        {
+            "id": "594a50bafd3b7031c1000013",
+            "name": "Easy SQL: Convert to Hexadecimal",
+            "slug": "easy-sql-convert-to-hexadecimal",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-06-22T09:49:33.067Z"
+        },
+        {
+            "id": "5910b0d378cc2ba91400000b",
+            "name": "Collect Tuition (SQL for Beginners #4)",
+            "slug": "collect-tuition-sql-for-beginners-number-4",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-06-22T09:39:45.563Z"
+        },
+        {
+            "id": "583710ccaa6717322c000105",
+            "name": "Simple multiplication",
+            "slug": "simple-multiplication",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-06-22T09:35:36.618Z"
+        },
+        {
+            "id": "582cb0224e56e068d800003c",
+            "name": "Keep Hydrated!",
+            "slug": "keep-hydrated-1",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-06-22T09:30:14.835Z"
+        },
+        {
+            "id": "582365c18917435ab3000020",
+            "name": "SQL Grasshopper: Select Columns",
+            "slug": "sql-grasshopper-select-columns",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-06-22T09:17:39.739Z"
+        },
+        {
+            "id": "581113dce10b531b1d0000bd",
+            "name": "SQL Basics: Simple MIN / MAX",
+            "slug": "sql-basics-simple-min-slash-max",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-06-22T09:15:49.094Z"
+        },
+        {
+            "id": "594a9592704e4d21bc000131",
+            "name": "SQL Basics: Mod",
+            "slug": "sql-basics-mod",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-06-22T09:02:39.558Z"
+        },
+        {
+            "id": "58111670e10b53be31000108",
+            "name": "SQL Basics: Simple DISTINCT",
+            "slug": "sql-basics-simple-distinct",
+            "completedLanguages": [
+                "sql"
+            ],
+            "completedAt": "2026-06-22T08:57:50.961Z"
+        },
         {
             "id": "57e76bc428d6fbc2d500036d",
             "name": "Convert a string to an array",

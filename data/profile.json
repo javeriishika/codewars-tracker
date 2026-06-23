@@ -2,16 +2,16 @@
     "id": "698071b5e290fcb6e288d4f6",
     "username": "javeriishika",
     "name": "Ishika Javeri",
-    "honor": 249,
+    "honor": 310,
     "clan": null,
-    "leaderboardPosition": 377932,
+    "leaderboardPosition": 287108,
     "skills": null,
     "ranks": {
         "overall": {
-            "rank": -6,
-            "name": "6 kyu",
+            "rank": -5,
+            "name": "5 kyu",
             "color": "yellow",
-            "score": 214
+            "score": 230
         },
         "languages": {
             "java": {
@@ -21,10 +21,10 @@
                 "score": 36
             },
             "sql": {
-                "rank": -8,
-                "name": "8 kyu",
+                "rank": -7,
+                "name": "7 kyu",
                 "color": "white",
-                "score": 12
+                "score": 28
             },
             "python": {
                 "rank": -6,
@@ -36,6 +36,6 @@
     },
     "codeChallenges": {
         "totalAuthored": 0,
-        "totalCompleted": 78
+        "totalCompleted": 86
     }
 }
