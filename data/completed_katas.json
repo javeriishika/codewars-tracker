@@ -742,8 +742,8 @@
         },
         {
             "id": "55f8a9c06c018a0d6e000132",
-            "name": "Regex validate PIN code",
-            "slug": "regex-validate-pin-code",
+            "name": "Validate a PIN code",
+            "slug": "validate-a-pin-code",
             "completedLanguages": [
                 "java"
             ],
